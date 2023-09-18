@@ -1,5 +1,5 @@
 # TIL
-![Version](https://img.shields.io/badge/version-2023.9.17-red.svg)
+![Version](https://img.shields.io/badge/version-2023.9.18-red.svg)
 
 ## 작성규칙
 1. 의미없는 커밋은 하지 않는다.
@@ -7,6 +7,7 @@
 3. 더 많은 공유는 블로그에 포스팅한다.
 
 ## React
+* [React의 제어컴포넌트와 비제어 컴포넌트](./react/conponent-of-controlled-and-uncontrolled.md)
 ## Typescript
 ## Etc
 * [Eslint와 Prettier의 캐시 전략](./etc/cache-strategy-of-eslint-and-prettier.md)
