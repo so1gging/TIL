@@ -1,5 +1,5 @@
 # TIL
-![Version](https://img.shields.io/badge/version-2023.9.27-red.svg)
+![Version](https://img.shields.io/badge/version-2023.9.29-red.svg)
 
 ## 작성규칙
 1. 의미없는 커밋은 하지 않는다.
