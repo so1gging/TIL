@@ -17,3 +17,4 @@
 * [CSR SSR SSG](./etc/CSR-SSR-SSG-example.md)
 * [프론트엔드 서버와 백엔드 서버 차이](./etc/frontent-server-vs-backend-server.md)
 * [msw](./etc/msw.md)
+* [Blob file](./etc/blob.md)
