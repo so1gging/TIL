@@ -18,3 +18,5 @@
 * [프론트엔드 서버와 백엔드 서버 차이](./etc/frontent-server-vs-backend-server.md)
 * [msw](./etc/msw.md)
 * [Blob file](./etc/blob.md)
+## 강의
+* [SSR의 기쁨과 슬픔](./강의//SSR의%20기쁨과%20슬픔:%20렌더링의%20변화의%20흐름을%20통해%20알아보는%20SSR과%20Streaming%20SSR.md)
