@@ -8,6 +8,7 @@
 
 ## React
 * [React의 제어컴포넌트와 비제어 컴포넌트](./react/conponent-of-controlled-and-uncontrolled.md)
+* [기능이 담긴 컴포넌트는 외부에 선언하자](./react//calling-functional-components//calling-functional-components.md)
 ## Typescript
 ## Style
 * [Grid와 친해지기](./style/flex-container-grid-container.png)
