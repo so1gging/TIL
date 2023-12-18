@@ -1,5 +1,5 @@
 # TIL
-![Version](https://img.shields.io/badge/version-2023.12.08-red.svg)
+![Version](https://img.shields.io/badge/version-2023.12.18-red.svg)
 
 ## 작성규칙
 * 하루에 공부한 내용들은 `daily` 폴더 하위에 `YYYYMMDD.md` 파일 명으로 생성해 기록합니다.
@@ -16,6 +16,7 @@
 [20231207](/daily/20231207/20231207.md)
 [20231208](/daily/20231208/20231208.md)
 [20231213](/daily/20231213/20231213.md)
+[20231218](/daily/20231218/20231218.md)
 
 
 ## 정리
