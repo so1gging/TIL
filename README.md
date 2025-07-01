@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="160" height="160" />
 
-![Version](https://img.shields.io/badge/version-2025.06.30-blue.svg)
+![Version](https://img.shields.io/badge/version-2025.07.01-blue.svg)
 
 </div>
 
@@ -41,6 +41,7 @@
 [20250626](/daily/250626.md)
 [20250627](/daily/250627.md)
 [20250630](/daily/250630.md)
+[20250701](/daily/250701.md)
 
 ## 정리
 
