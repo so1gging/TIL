@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="160" height="160" />
 
-![Version](https://img.shields.io/badge/version-2025.07.07-blue.svg)
+![Version](https://img.shields.io/badge/version-2025.07.10-blue.svg)
 
 </div>
 
