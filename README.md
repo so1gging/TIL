@@ -40,7 +40,10 @@
 [20250625](/daily/250625.md)
 [20250626](/daily/250626.md)
 [20250627](/daily/250627.md)
-
+[20250630](/daily/250630.md)
+[20250701](/daily/250701.md)
+[20250703](/daily/250703.md)
+[20250707](/daily/250707.md)
 ## 정리
 
 ### React
@@ -61,6 +64,7 @@
 - [msw](./etc/msw.md)
 - [Blob file](./etc/blob.md)
 - [SPA index.html](./etc//SPA의%20고정된%20indexhtml.md)
+- [육각형 개발자](./etc/%EC%9C%A1%EA%B0%81%ED%98%95_%EA%B0%9C%EB%B0%9C%EC%9E%90.md)
 
 ### 강의
 
